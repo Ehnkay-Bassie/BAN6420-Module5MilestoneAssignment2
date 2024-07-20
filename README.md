@@ -14,7 +14,7 @@
 In this project, the following tasks are performed:
 
 1. PCA Implementation:
-   - Utilize PCA to identify essential variables from the cancer dataset available in sklearn.datasets.
+   - Utilize PCA to identify essential variables from the cancer dataset available in 'sklearn.datasets'.
 2. Dimensionality Reduction:
    - Reduce the dataset into two PCA components.
 3. Logistic Regression:
@@ -25,7 +25,7 @@ In this project, the following tasks are performed:
 
 To successfully complete this project, follow these steps:
 1. Implement PCA:
-   - Load the cancer dataset from 'sklearn.datasets'.
+   - Load the cancer dataset 'load_breast_cancer' from 'sklearn.datasets'.
    - Standardize the data before applying PCA.
    - Perform PCA to reduce the dataset to two principal components.
 2. Dimensionality Reduction:
@@ -38,7 +38,7 @@ To successfully complete this project, follow these steps:
 
 ## How to Run the Notebook
 
-1. Clone the Repository or download file.
+1. Clone the Repository or download the file.
 
 2. Install Dependencies:
    - Ensure that you have all the necessary Python libraries installed. You can install the required libraries using:
